@@ -1,4 +1,6 @@
-# Aplicação com JavaScript puro: Como desenvolver um buscador de letras de músicas
+# Aplicação com JavaScript puro: 
+
+#Como desenvolver um buscador de letras de músicas
 
 ## Ministrado pelo canal Roger Melo
 
